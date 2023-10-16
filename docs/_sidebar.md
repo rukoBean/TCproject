@@ -1,6 +1,6 @@
 - Section 1  
-    - [1.1](sect1/subtl_1_1.md)  
-    - [1.2](sect1/subtl_1_2.md)  
+    - [1.1](subtl_1_1.md)  
+    - [1.2](subtl_1_2.md)  
 - Section 2  
-    - [2.1](sect1/subtl_2_1.md)  
-    - [2.2](sect1/subtl_2_2.md)  
+    - [2.1](subtl_2_1.md)  
+    - [2.2](subtl_2_2.md)  
