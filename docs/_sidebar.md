@@ -1,6 +1,0 @@
--Module 1  
-    -[1_1](subtl_1_1.md)  
-    -[1_2](subtl_1_2.md)  
--Module 2  
-    -[2_1](subtl_2_1.md)  
-    -[2_2](subtl_2_2.md)  
