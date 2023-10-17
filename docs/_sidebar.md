@@ -1,3 +1,4 @@
+* [Get Started](README.md)
 * [Section 1](sec1.md)   
 * [Section 2](sec2.md)  
 * [Section 3](sec3.md)  
