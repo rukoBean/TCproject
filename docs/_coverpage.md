@@ -2,7 +2,7 @@
 
 <!--[logo](_media/icon.svg)-->
 
-# docsify <small>3.5</small>
+# TC project <small>group 2</small>
 
 > Lalalala
 
@@ -12,3 +12,4 @@
 
 [Library](http://www.lib.seu.edu.cn/)
 [Get Started](#tcproject_ms000151)
+

@@ -12,17 +12,33 @@
   <div id="app">Loading:D</div>
   <script>
     window.$docsify = {
+      // GENERAL
+      // -----------------------------------------------------------------
       name: '',
       repo: '',
-      coverpage: true,
       loadSidebar: true,
+      loadNavbar: true,
       subMaxLevel: 2,
-      crossChapter: true,
-      crossChapterText: true
+      coverpage: true,
+      autoHeader: true,
+      auto2top: true,
+      progress: {
+        position: "top",
+        color: "var(--theme-color,#42b983)",
+        height: "3px",
+      },
+      search:{
+        paths:'auto',
+        placeholder:'Type to search',
+        noData:'No Results'
+      }
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-wikilink@1"></script> <!--see https://zpengg.github.io/docsify-wikilink/#/-->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script> <!--https://github.com/HerbertHe/docsify-progress-->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
