@@ -1,5 +1,2 @@
 # this is section 4
-
-## this is section 4.1
-
-## Section 4.2
+下载和阅读方法：是否支持在线阅读？有没有单独的阅读器？是否支持批量下载？一次最多下载多少条？

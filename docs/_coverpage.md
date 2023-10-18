@@ -1,15 +1,14 @@
 <!-- _coverpage.md -->
 
-<!--[logo](_media/icon.svg)-->
+![logo](_media/Library.svg)
 
-# TC project <small>group 2</small>
+# SpringerLink : Library Guide <small>Oct. 2023</small>
 
-> Lalalala
+> [@Southeast University](https://www.seu.edu.cn/english/)
 
-- a user guide
-- springer database
-- from SEU library
+- [@School of Physics](https://physics.seu.edu.cn/23149/list.htm)
+- Group 2
+- MS000151
 
 [Library](http://www.lib.seu.edu.cn/)
-[Get Started](#tcproject_ms000151)
-
+[Get Started](README.md)

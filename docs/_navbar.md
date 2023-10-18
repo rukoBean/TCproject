@@ -1,1 +1,1 @@
-- [Back to homepage](/)
+- [Homepage](/)

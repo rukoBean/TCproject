@@ -1,5 +1,7 @@
 * [Get Started](README.md)
-* [Section 1](sec1.md)   
+* [Introduction](sec1.md)   
 * [Section 2](sec2.md)  
 * [Section 3](sec3.md)  
 * [Section 4](sec4.md)  
+* [Section 5](sec5.md)  
+* [Help and Support](sec6.md)  
