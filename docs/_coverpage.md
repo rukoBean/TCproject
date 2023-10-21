@@ -1,8 +1,7 @@
 <!-- _coverpage.md -->
 
-![](_media/Library.svg)
 
-# SpringerLink : Library Guide <small>Oct. 2023</small>
+# :open_book: <br> SpringerLink : Library Guide <small>Oct. 2023</small>
 
 > [@Southeast University](https://www.seu.edu.cn/english/)
 
