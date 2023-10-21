@@ -1,5 +1,5 @@
 # How to Access
-To access an online database generally means you visit a link and log in as a valid user. 
+To access an online database generally means you visit the database and log in as a valid user. 
 - Personal users can directly log in their accounts. We don't discuss this type of users in this guide.
 - Authorized institutional users, according to different spatial locations, have two login methods: **login from campus** or **remote login**.
 

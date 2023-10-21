@@ -27,6 +27,12 @@
         crossChapter: true,
         crossChapterText: true
       },
+      search: {
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        noData: 'No Results',//搜索不到结果时显示
+        paths: 'auto',//自动
+        placeholder: 'Search..',//搜索框提示
+      },
       progress: {
         position: "top",
         color: "var(--theme-color,#42b983)",
@@ -44,5 +50,6 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script> <!--https://github.com/HerbertHe/docsify-progress-->
   <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script><!--note、tip、WARNING、ATTENTION-->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
 </body>
 </html>
