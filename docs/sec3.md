@@ -2,15 +2,15 @@
 This part shows how to search and refine your search after successful access to SpringerLink. Before you begin your search, we strongly recommend going back to the old SpringerLink experience by follow these steps:
 1. On the SpringerLink homepage, type in some randome search terms and click on the :mag: to the right of the search bar.
 
-![rando](/_media/random.png 'SpringerLink homepage')
+<div align="center"><img src='/_media/random.png' title='SpringerLink homepag' width=60%></div>
 
 2. Click on `You can go back to the old experience here`.
 
-![old](/_media/old.png 'Go back to the old experience')
+<div align="center"><img src='/_media/old.png' title='Go back to the old experience' width=60%></div>
 
 3. The 'old experience' should look like this.
 
-![old](/_media/oldex.png 'SpringerLink search page')
+<div align="center"><img src='/_media/oldex.png' title='SpringerLink search page' width=60%></div>
 
 The reason to go back to the old experience is very simple: the new one is still in the experimental phase and some features are not complete yet.
 
@@ -19,7 +19,7 @@ The reason to go back to the old experience is very simple: the new one is still
 ### Basic Search
 SpringerLink offers a search bar at the top of each page. The basic search function is similar to a search engine (for example: Bing and Baidu). Type in keywords and click on the :mag: to submit your search. 
 
-![search bar](/_media/bar.png 'search bar')
+<div align="center"><img src='/_media/bar.png' title='Search bar' width=60%></div>
 
 Basic search will return results that share the stem(s) of the words you enter in the search box. For example, a search for "running" will return matches that contain "runner", "run", "ran", and so on.
 
@@ -32,7 +32,7 @@ Advanced search can be accessed by clicking the cog icon :gear: on the right of 
 
 Advanced search allows you to search for a DOI, Author or an exact phrase, or perform logical operations with phrases. It also allows you to refine your search even further by only returning results from a specific publication or date range. If you check the `Include Preview-Only content` box, it will only return the results you have access to.
 
-![adv search](/_media/advancesearch.png 'The Advance Search Form')
+<div align="center"><img src='/_media/advancesearch.png' title='The Advance Search Form' width=30%></div>
 
 ## Read Search Results
 The search page is divided into four parts:
@@ -63,7 +63,7 @@ You can refine your search by the following four methods:
     - Firstly, click `Date Published` at the top of your search results list.   
     - Secondly, enter different values in the date boxes and click `Submit`.
 
-![](/_media/date.png 'Narrow down by date')
+<div align="center"><img src='/_media/date.png' title='Narrow down by date' width=50%></div>
 
 4. **Search within a search** In order to search within a search, simply **add** keywords to any existing search terms in the search bar and re-submit your search.
 
@@ -74,11 +74,13 @@ Under the default conditions, the search results are sorted according to relevan
 
 ## Save Results List
 Above the search results list you will see an arrow displayed that allows you to download the first 1000 search results as a CSV file.
-![](/_media/dl.png 'Save Results List')
+<div align="center"><img src='/_media/dl.png' title='Save Results List' width=50%></div>
 
 ## Start New Search
 Search terms and selections will remain as you narrow and expand a search. If you want to start a new search, click `New Search` on the search bar. This will clear the search bar and reset the search page to its default settings.
-![](/_media/new.png 'Start New Search')
+
+<div align="center"><img src='/_media/new.png' title='Start New Search' width=50%></div>
+
 
 > [!TIP]
 > Further information on using the search function can be found at [SpringerLink Search Tips/Help](https://link.springer.com/searchhelp).

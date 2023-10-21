@@ -3,7 +3,7 @@ To read, download or cite an item from the search results list, start by clickin
 
 A typical content page looks like this:
 
-![content page](\_media\article.jpeg  'Content page')
+<div align="center"><img src='/_media/article.jpeg' title='Content page' width=60%></div>
 
 ## Read Online
 Contents that can be viewed online are fully displayed on their content pages. SpringerLink does not provide a seperate online reader application. Simply scroll down the page and read.
@@ -20,5 +20,5 @@ You can download the PDF format of articles and books by clicking the blue `Down
 ## Download Citations
 Scroll down the content page until you see a part titled  `About this ...`. Click `Download Citation` to download a `.ris`format citation of the content.
 
-![citation](\_media\cite.png 'Download citation')
+<div align="center"><img src='/_media/cite.png' title='Download citation' width=60%></div>
 

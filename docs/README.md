@@ -7,4 +7,7 @@
 
 This website is a quick user guide for SEU students who are unfamiliar with SpringerLink or library databases and search engines. We will demonstrate how to access SpringerLink from Southeast University Library, as well as how to search, browse and legally download academic journals and books.
 
+> [!TIP]
+> When you see an image in this guide, you can click on it to zoom and click again to cancel zoom.
+
 <!-- > For a short version of this web guide, click here to download a pdf guide. -->
