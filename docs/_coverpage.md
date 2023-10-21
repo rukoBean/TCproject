@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/Library.svg)
+![](_media/Library.svg)
 
 # SpringerLink : Library Guide <small>Oct. 2023</small>
 
