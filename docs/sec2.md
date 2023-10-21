@@ -12,7 +12,7 @@ The SpringerLink platform is at https://link.springer.com/. You can simply go to
 1. Go to [Southeast University Library Homepage](http://www.lib.seu.edu.cn/).
 2. Under `Database` tab, select `Springer`.  
 
-<div align="center"><img src='https://github.com/rukoBean/TCproject/blob/main/docs/_media/seulibhome.gif' title='Visit SpringerLink from library' width=60%></div>
+![](/_media/seulibhome.gif 'Visit SpringerLink from library')
 
 
 > [!TIP]
@@ -38,23 +38,23 @@ SpringerLink platform supports Southeast University's login system, so you can e
 1. Visit SpringerLink.
 2. Click `Log in` at up-right corner of the webpage. This will lead you to a new page.  
 
-<div align="center"><img src='https://github.com/rukoBean/TCproject/blob/main/docs/_media/login.png' title='Login via Institution: step 2' width=60%></div>
+![](/_media/login.png 'Login via Institution: step 2')
 
 3. Click `Access via your institution`. This will lead you to a new page.  
 
-<div align="center"><img src='https://github.com/rukoBean/TCproject/blob/main/docs/_media/institu.png' title='Login via Institution: step 3' width=60%></div>
+![](/_media/institu.png 'Login via Institution: step 3')
 
 4. Type in `Southeast University` and click `Southeast University` in the drop-down list. This will lead you to a login page.  
 
-<div align="center"><img src='https://github.com/rukoBean/TCproject/blob/main/docs/_media/type.png' title='Login via Institution: step 4' width=60%></div>
+![](/_media/type.png 'Login via Institution: step 4')
 
 5. Log into your Southeast University account. And you will be redirected to a new page automatically.  
 
-<div align="center"><img src='https://github.com/rukoBean/TCproject/blob/main/docs/_media/seulogin.png' title='Login via Institution: step 5' width=60%></div>
+![](/_media/seulogin.png 'Login via Institution: step 5')
 
 6. Click `Accept`. This will lead you back to SpringerLink homepage.  
 
-<div align="center"><img src='https://github.com/rukoBean/TCproject/blob/main/docs/_media/accept.png' title='Login via Institution: step 6' width=60%></div>
+![](/_media/accept.png 'Login via Institution: step 6')
 
 7. You are successfully logged in as an institutional user.*Woo-hoo!*
 
@@ -63,6 +63,6 @@ If you are not sure whether you have been granted authorized access to the Sprin
 1. Scroll down to the very bottom of the SpringerLink page. 
 2. If authorized, you should be able to see your IP address along with a long authorization text that includes `Southeast University`.  
 
-<div align="center"><img src='https://github.com/rukoBean/TCproject/blob/main/docs/_media/checknet.png' title='Authrization text example' width=60%></div>
+![](/_media/checknet.png 'Authrization text example')
 
 3. If `Unaffiliated` is displayed then your access is not authorized. Try connect to a campus network, or use remote login.
