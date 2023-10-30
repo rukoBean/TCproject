@@ -1,8 +1,8 @@
 # How to Search
 This part shows how to search and refine your search after successful access to SpringerLink. Before you begin your search, we strongly recommend going back to the old SpringerLink experience by follow these steps:
-1. On the SpringerLink homepage, type in some randome search terms and click on the :mag: to the right of the search bar.
+1. On the SpringerLink homepage, type in some random search terms and click on the :mag: to the right of the search bar.
 
-![](/_media/random.png 'SpringerLink homepag')
+![](/_media/random.png 'SpringerLink homepage')
 
 2. Click on `You can go back to the old experience here`.
 

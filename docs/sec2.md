@@ -63,6 +63,6 @@ If you are not sure whether you have been granted authorized access to the Sprin
 1. Scroll down to the very bottom of the SpringerLink page. 
 2. If authorized, you should be able to see your IP address along with a long authorization text that includes `Southeast University`.  
 
-![](/_media/checknet.png 'Authrization text example')
+![](/_media/checknet.png 'Authorization text example')
 
 3. If `Unaffiliated` is displayed then your access is not authorized. Try connect to a campus network, or use remote login.

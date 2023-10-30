@@ -6,7 +6,7 @@ A typical content page looks like this:
 ![](/_media/article.jpeg 'Content page')
 
 ## Read Online
-Contents that can be viewed online are fully displayed on their content pages. SpringerLink does not provide a seperate online reader application. Simply scroll down the page and read.
+Contents that can be viewed online are fully displayed on their content pages. SpringerLink does not provide a separate online reader application. Simply scroll down the page and read.
 
 > [!TIP]
 > You can click on the floating `Sections` tab on right of the content page to jump to different sections. Or click on the `Figures` tab to see all the figures.
@@ -15,7 +15,7 @@ Contents that can be viewed online are fully displayed on their content pages. S
 You can download the PDF format of articles and books by clicking the blue `Download PDF` button on the right side of the content page.
 
 > [!TIP]
-> SpringerLink does not support bulk download, but you can realize bulk download by importing your search results list into a reference mangament software (for example: Zotero) and use the software's bulk download function.
+> SpringerLink does not support bulk download, but you can realize bulk download by importing your search results list into a reference management software (for example: Zotero) and use the software's bulk download function.
 
 ## Download Citations
 Scroll down the content page until you see a part titled  `About this ...`. Click `Download Citation` to download a `.ris`format citation of the content.

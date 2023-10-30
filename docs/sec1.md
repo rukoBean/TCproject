@@ -27,4 +27,4 @@ Southeast University's subscription of SpringerLink covers the following 11 subj
 - Physics and Astronomy
 
 > [!Attention]
-> Please note that not all content may be included in our library's subscription. [Click here](http://www.lib.seu.edu.cn/upload_files/article/251/53_20230917154616.xlsx) to see a full subsription list.
+> Please note that not all content may be included in our library's subscription. [Click here](http://www.lib.seu.edu.cn/upload_files/article/251/53_20230917154616.xlsx) to see a full subscription list.
